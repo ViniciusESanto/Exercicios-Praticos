@@ -1,0 +1,12 @@
+Pesquisar sobre HTML, CSS e JavaScript:
+
+HTML: Esta linguagem de marcação é o bloco de construção mais básico da web, ele define semântica, as coisas e a estrutura do conteúdo da web.
+
+CSS: Trata-se de uma linguagem de estilo, esta linguagem busca definir a aparência de uma página da web através da estilização, é um padrão que define como os dados são apresentados no navegador.
+
+JavaScript: É uma linguagem de programação de alto nível que busca trazer dinamismo a pagina da web com imagens animadas e controle de multimídias.
+
+Indicar a importância deles na construção de páginas:
+
+Estas três linguagens são essenciais para a criação de páginas da web, pois com ela moldamos a página toda, desde o seu "esqueleto" com o HTML, o seu "estilo" com o CSS e a sua "movimentação" com o Javascript!
+
